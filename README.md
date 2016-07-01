@@ -1,7 +1,14 @@
 # DDPG-tensorflow
+![](Pendulum.png)
+Implementing DDPG on OpenAI Reimplementing DDPG from Continuous Control with Deep Reinforcement Learning based on OpenAI Gym and Tensorflow
 
-Implementing DDPG on OpenAI Gym Pendulum-v0
-
-!(pendulum)[pendulum.png]
+[http://arxiv.org/abs/1509.02971](http://arxiv.org/abs/1509.02971)
 
 
+
+## Reference
+1 [https://github.com/rllab/rllab](https://github.com/rllab/rllab)
+
+2 [https://github.com/MOCR/DDPG](https://github.com/MOCR/DDPG)
+
+3 [https://github.com/SimonRamstedt/ddpg](https://github.com/SimonRamstedt/ddpg)
