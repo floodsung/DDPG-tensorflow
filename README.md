@@ -1,5 +1,5 @@
 # DDPG-tensorflow
-![](Pendulum.png)
+![](pendulum.png)
 Implementing DDPG on OpenAI Reimplementing DDPG from Continuous Control with Deep Reinforcement Learning based on OpenAI Gym and Tensorflow
 
 [http://arxiv.org/abs/1509.02971](http://arxiv.org/abs/1509.02971)
