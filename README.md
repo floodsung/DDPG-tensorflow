@@ -12,3 +12,7 @@ Implementing DDPG on OpenAI Reimplementing DDPG from Continuous Control with Dee
 2 [https://github.com/MOCR/DDPG](https://github.com/MOCR/DDPG)
 
 3 [https://github.com/SimonRamstedt/ddpg](https://github.com/SimonRamstedt/ddpg)
+
+## Disclaimer
+
+The core implementation of the algorithm is mainly based on [https://github.com/SimonRamstedt/ddpg](https://github.com/SimonRamstedt/ddpg)
